@@ -1,0 +1,4 @@
+Failed to compile
+./src/components/dynamicChart.js
+Error: ENOENT: no such file or directory, open '/home/fazliddin/Documents/projects/react/KHJ-27/src/components/dynamicChart.js'
+This error occurred during the build time and cannot be dismissed.
